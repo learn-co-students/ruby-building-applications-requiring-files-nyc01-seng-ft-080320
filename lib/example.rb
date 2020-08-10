@@ -11,7 +11,7 @@ class Garden
     end
   end
 end
-
+ 
 class Plant
   attr_accessor :garden, :name
 
