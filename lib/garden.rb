@@ -16,7 +16,7 @@ end
 
 lawn = Garden.new(name: 'Front Lawn')
 
-basil = Plant.new(name: 'Basil')
+basil =  Plant.new(name: 'Basil')
 basil.garden = lawn
 
 cucumber = Plant.new(name: 'Cucumber')
